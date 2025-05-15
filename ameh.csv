@@ -1,0 +1,19 @@
+Order,PID,MS SubClass,MS Zoning,Lot Frontage,Lot Area,Street,Alley,Lot Shape,Land Contour,Utilities,Lot Config,Land Slope,Neighborhood,Condition 1,Condition 2
+1,526301100,20,RL,141,31770,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm
+2,526350040,20,RH,80,11622,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Feedr,Norm
+3,526351010,20,RL,81,14267,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm
+4,526353030,20,RL,93,11160,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm
+5,527105010,60,RL,74,13830,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+6,527105030,60,RL,78,9978,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+7,527127150,120,RL,41,4920,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,StoneBr,Norm,Norm
+8,527145080,120,RL,43,5005,Pave,NA,IR1,HLS,AllPub,Inside,Gtl,StoneBr,Norm,Norm
+9,527146030,120,RL,39,5389,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,StoneBr,Norm,Norm
+10,527162130,60,RL,60,7500,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+11,527163010,60,RL,75,10000,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,Norm
+12,527165230,20,RL,,7980,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+13,527166040,60,RL,63,8402,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+14,527180040,20,RL,85,10176,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm
+15,527182190,120,RL,,6820,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,StoneBr,Norm,Norm
+16,527216070,60,RL,47,53504,Pave,NA,IR2,HLS,AllPub,CulDSac,Mod,StoneBr,Norm,Norm
+17,527225035,50,RL,152,12134,Pave,NA,IR1,Bnk,AllPub,Inside,Mod,Gilbert,Norm,Norm
+18,527258010,20,RL,88,11394,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,StoneBr,Norm,Norm
