@@ -15,3 +15,5 @@ https://www.kdnuggets.com/2022/08/machine-learning-encrypted-data.html
 https://medium.com/@nroshan005/decoding-python-obfuscation-how-hackers-hide-malicious-code-76bd69835072
 
 https://mostly.ai/blog/data-anonymization-in-python
+
+https://www.kdnuggets.com/2022/08/machine-learning-encrypted-data.html
