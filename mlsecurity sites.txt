@@ -11,3 +11,5 @@ https://medium.com/@zhonghong9998/privacy-preserving-machine-learning-techniques
 https://www.arcserve.com/blog/5-common-encryption-algorithms-and-unbreakables-future
 
 https://www.kdnuggets.com/2022/08/machine-learning-encrypted-data.html
+
+https://medium.com/@nroshan005/decoding-python-obfuscation-how-hackers-hide-malicious-code-76bd69835072
