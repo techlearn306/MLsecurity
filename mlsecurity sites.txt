@@ -1,0 +1,13 @@
+https://www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/
+
+https://clouddevs.com/python/cryptography/
+
+https://github.com/monk1337/Awesome-Robust-Machine-Learning
+
+https://medium.com/@zhonghong9998/privacy-preserving-machine-learning-techniques-for-protecting-sensitive-data-d199b450e5a9
+
+https://medium.com/@zhonghong9998/privacy-preserving-machine-learning-techniques-for-protecting-sensitive-data-d199b450e5a9
+
+https://www.arcserve.com/blog/5-common-encryption-algorithms-and-unbreakables-future
+
+https://www.kdnuggets.com/2022/08/machine-learning-encrypted-data.html
