@@ -17,3 +17,9 @@ https://medium.com/@nroshan005/decoding-python-obfuscation-how-hackers-hide-mali
 https://mostly.ai/blog/data-anonymization-in-python
 
 https://www.kdnuggets.com/2022/08/machine-learning-encrypted-data.html
+
+https://dev.to/immah/building-a-simple-image-encryption-tool-using-python-2439
+
+https://www.zama.ai/introduction-to-homomorphic-encryption
+
+https://medium.com/@zhonghong9998/privacy-preserving-machine-learning-techniques-for-protecting-sensitive-data-d199b450e5a9
